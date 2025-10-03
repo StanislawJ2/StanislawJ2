@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello there! I'm Stanisław Jarecki
 
+Master of Engineering in Computer Science with a passion for programming and game development. On GitHub, I showcase projects such as games and shaders that I developed during my studies. I am currently seeking my first professional experience in the IT industry to further enhance my skills and gain practical knowledge.
 <!--
 **StanislawJ2/StanislawJ2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

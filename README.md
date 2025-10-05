@@ -8,7 +8,7 @@ This is an educational VR game where players learn how to safely build and light
 **Platform:** VR  
 **Engine:** Unity  
 **Type of work:** Team project  
-![Firestarter](https://drive.google.com/file/d/13HVC4jjwwHH9oe3rPsjYx5vuuCmQ6nMD/view?usp=sharing)
+<video src="https://i.imgur.com/4nBmmfn.mp4" autoplay loop muted playsinline></video>
 ## Master of weaving (Top 3 in the mobile category of the 16th edition of ZTGK)
 An engaging arcade game where you swipe left or right to weave rows of the correct color. Your goal is to match the colors to the pattern with precision, but the further you progress, the less time you have to react. The pace increases with each moment, demanding quicker moves and greater focus. By earning points, you unlock new colors, adding variety and a sense of achievement. Get ready for an exciting, fast-paced adventure full of challenges and vibrant colors!  
 **Genre:** Arcade / Casual

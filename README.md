@@ -28,6 +28,7 @@ A logic-based puzzle game where the player reveals a hidden picture on a grid. N
 **Platform:** PC / Android  
 **Technology:** Processing (Java-based environment)  
 **Type of work:** Solo project  
+<img src="nanogram.gif" alt="Nanogram" width="400" height="400">
 ## Shader Tech Demo 
 The project was originally intended to be a horror game, but it eventually evolved into a technology demo. The main focus was on creating and testing shaders in Unreal Engine, as well as experimenting with graphical effects and environmental atmosphere. The demo showcases various visual solutions and serves as a foundation for further shader-based projects.  
 **Genre:** Tech Demo / Horror (concept)  

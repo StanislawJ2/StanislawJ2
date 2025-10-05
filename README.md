@@ -22,6 +22,7 @@ In this game, two players take on the roles of farmers competing to score as man
 **Platform:** PC  
 **Engine:** Custom engine  
 **Type of work:** Team project  
+<img src="farm.gif" alt="Blooming Brawl" width="400" height="400">
 ## Nanogram
 A logic-based puzzle game where the player reveals a hidden picture on a grid. Numbers placed above columns and next to rows indicate how many blocks need to be filled in each line. The player’s task is to deduce which squares should be marked and which left empty. Additionally, the boards are randomly generated, providing unique challenges and enhancing replayability. An additional editor was also created, allowing players to convert images into custom maps.  
 **Genre:** Puzzle / Logic  

@@ -15,7 +15,7 @@ An engaging arcade game where you swipe left or right to weave rows of the corre
 **Platform:** Android  
 **Engine:** Unity  
 **Type of work:** Team project  
-<img src="mobilka.gif" alt="Master of weaving" width="400" height="800">
+<img src="mobilka.gif" alt="Master of weaving" width="400" height="650">
 ## Blooming Brawl
 In this game, two players take on the roles of farmers competing to score as many points as possible by planting crops and sabotaging each other. They have access to various tools that help with planting and maintaining their own fields, as well as destroying the opponent’s crops more effectively. During the game, a robot appears that sabotages both players, forcing them to strategically place their crops.  
 **Genre:** Party / Competitive  
@@ -35,3 +35,4 @@ The project was originally intended to be a horror game, but it eventually evolv
 **Platform:** PC  
 **Engine:** Unreal Engine  
 **Type of work:** Team project  
+<img src="shader.gif" alt="Shader" width="400" height="400">
